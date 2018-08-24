@@ -1,0 +1,17 @@
+{
+	"name": "Open Frame Version 1.0",
+	"manifest_version": 2,
+	"version": "1",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "description": "Open Frame Version 1.0 . update version.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "permissions": [ "clipboardWrite", "contextMenus" ]
+   
+}
